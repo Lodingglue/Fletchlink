@@ -30,7 +30,7 @@ It provides a user-friendly interface for authenticating with a Microsoft accoun
 
 #### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/fletchlink.git
+git clone https://github.com/Lodingglue/fletchlink.git
 ```
 
 #### Open in Android Studio:
